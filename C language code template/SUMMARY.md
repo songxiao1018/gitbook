@@ -2,9 +2,9 @@
 
 * [Readme](README.md)
 
-## In_Put&& Out_Put
+## In\_Put&& Out\_Put
 
-* [Page 1](In_Put&&Out_Put/page-1.md)
-* [Page 2](In_Put&&Out_Put/page-2.md)
-* [Page 3](In_Put&&Out_Put/page-3.md)
-* [Page 4](In_Put&&Out_Put/page-4.md)
+* [scanf() 键盘读取](In\_Put&\&Out\_Put/page-1.md)
+* [Page 2](In\_Put&\&Out\_Put/page-2.md)
+* [Page 3](In\_Put&\&Out\_Put/page-3.md)
+* [Page 4](In\_Put&\&Out\_Put/page-4.md)
