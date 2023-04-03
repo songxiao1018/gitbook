@@ -1,33 +1,6 @@
-# Readme
+# README
 
-hello
+本项目是一个C/C++语言代码模板，用于快速查找和学习C/C++语言的代码。
 
-asd
+## 目录
 
-as
-
-d
-
-dafdsf
-
-
-
-dsf
-
-as
-
-fs
-
-df
-
-as
-
-df
-
-dsf
-
-as
-
-df
-
-sd
