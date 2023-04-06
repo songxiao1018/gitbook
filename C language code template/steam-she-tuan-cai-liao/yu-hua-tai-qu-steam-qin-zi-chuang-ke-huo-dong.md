@@ -1,6 +1,6 @@
 # 雨花台区 STEAM亲子创客活动
 
-课程安排
+## 课程安排
 
 1. 算法：输入与输出的“你写我猜”、micro：cube设计与编程
 2. 变量：“micro：scorekeeper”编程，micro创意设计
