@@ -9,4 +9,4 @@
 
 ## STEAM社团材料
 
-* [STEAM亲子创客活动](steam-she-tuan-cai-liao/steam-qin-zi-chuang-ke-huo-dong.md)
+* [STEAM亲子创客活动](steam/qin-zi-chuang-ke.md)
