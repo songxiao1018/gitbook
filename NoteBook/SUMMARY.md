@@ -1,6 +1,8 @@
 # Table of contents
 
 * [目录](README.md)
+* [Page](page.md)
+* [Page 1](page-1.md)
 
 ## 华东区大赛赋能训练营
 
