@@ -1,6 +1,6 @@
 # Table of contents
 
-* [欢迎！](README.md)
+* [欢迎](README.md)
 * [目录](<README (1).md>)
 
 ## 华东区大赛赋能训练营
